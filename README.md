@@ -18,8 +18,3 @@ int main() {
     return 0;  
 }  
 // 💥 Bang! The code bullet hits the target 🎯
-
- Links
-🔗 LeetCode
-🏢 LinkedIn
-📂 GitHub
