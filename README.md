@@ -1,16 +1,25 @@
-## Hi there 👋
+# **Babalpreet Singh**  
+### **Computer Science Student | C++ | MERN | AI Enthusiast**  
 
-<!--
-**Babal1111/Babal1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Coding | Building | Learning**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **🔫 Skills**  
+```cpp
+#include <iostream>  
+using namespace std;  
+
+int main() {  
+    cout << "💻 C++ | ";  
+    cout << "🌐 MERN (MongoDB, Express, React, Node) | ";  
+    cout << "🤖 AI/ML | ";  
+    cout << "🔧 Problem Solving" << endl;  
+    return 0;  
+}  
+// 💥 Bang! The code bullet hits the target 🎯
+
+ Links
+🔗 LeetCode
+🏢 LinkedIn
+📂 GitHub
